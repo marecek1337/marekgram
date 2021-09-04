@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/marekgram/static/css/main.e3bd3a6e.chunk.css",
+    "main.js": "/marekgram/static/js/main.7c2b1198.chunk.js",
+    "main.js.map": "/marekgram/static/js/main.7c2b1198.chunk.js.map",
+    "runtime-main.js": "/marekgram/static/js/runtime-main.20d568be.js",
+    "runtime-main.js.map": "/marekgram/static/js/runtime-main.20d568be.js.map",
+    "static/js/2.5871728b.chunk.js": "/marekgram/static/js/2.5871728b.chunk.js",
+    "static/js/2.5871728b.chunk.js.map": "/marekgram/static/js/2.5871728b.chunk.js.map",
+    "index.html": "/marekgram/index.html",
+    "precache-manifest.21968ff1cb189c30e1fc4a9ac5310098.js": "/marekgram/precache-manifest.21968ff1cb189c30e1fc4a9ac5310098.js",
+    "service-worker.js": "/marekgram/service-worker.js",
+    "static/css/main.e3bd3a6e.chunk.css.map": "/marekgram/static/css/main.e3bd3a6e.chunk.css.map",
+    "static/js/2.5871728b.chunk.js.LICENSE.txt": "/marekgram/static/js/2.5871728b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20d568be.js",
+    "static/js/2.5871728b.chunk.js",
+    "static/css/main.e3bd3a6e.chunk.css",
+    "static/js/main.7c2b1198.chunk.js"
+  ]
+}
